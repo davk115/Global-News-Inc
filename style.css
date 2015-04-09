@@ -1,0 +1,54 @@
+body {
+  font-family:Play !important;
+}
+.header_container{
+  background-color: #8cc63f;
+}
+.header {
+  margin-left: 14%;
+}
+.title {
+font-family:Play;
+font-weight: 700;
+}
+.title h3 {
+  font-weight: 700;
+}
+.title a {
+  color: #8cc63f;
+  text-decoration: none;
+}
+.title a:hover {
+  color: #7a9951 !important;
+  transition: 0.5s;
+}
+.country {
+  padding-top:20px;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+.articles_display {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.article {
+  background-color: #f2f2f2;
+  padding: 5px 20px 20px 20px;
+  border-bottom:2px solid rgba(0,0,0,0.1);
+  margin-bottom: 10px;
+}
+
+.contents {
+  width: 95%;
+}
+hr {
+  margin:20px 0;border:0;border-bottom:1px dotted #ccc;
+}
+.footer{
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
